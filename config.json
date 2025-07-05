@@ -1,0 +1,6 @@
+{
+    "prefix": "",
+    "suffix": "\n",
+    "log_level": "INFO",
+    "format": "HEX"
+}
